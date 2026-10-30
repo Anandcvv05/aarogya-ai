@@ -51,7 +51,7 @@ You will see:
 
 ### Step 3 — Open in browser
 
-Go to: **[http://localhost:500](https://aarogya-ai-a01n.onrender.com)**
+Go to: https://aarogya-ai-a01n.onrender.com
 
 ---
 
